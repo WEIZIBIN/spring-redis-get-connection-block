@@ -1,0 +1,1 @@
+# spring-redis-get-connection-block
